@@ -1,0 +1,204 @@
+
+body {
+    background-color: black;
+}
+
+.navbar ul {
+    display: flex;
+    background-color: crimson;
+    justify-content: flex-start;
+    border: 4px solid black;
+    margin-bottom: 50px;
+    margin-top: 0;
+    padding-left: 0;
+}
+
+.about {
+    font-size: 20px;
+    color: red;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    padding: 5px 30px;
+    background-color: lime;
+    font-family: cursive;
+}
+
+.media {
+    font-size: 20px;
+    color: red;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    padding: 5px 30px;
+    background-color: lime;
+    font-family: cursive;
+}
+
+.home {
+    font-size: 20px;
+    color: red;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    padding: 5px 30px;
+    background-color: lime;
+    font-family: cursive;
+}
+
+.flex-container-1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+}
+
+.flex-container-2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
+.bernard {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid crimson;
+    padding: 10px;
+    background-color: lime;
+}
+
+.bernard-summer {
+    height: 250px;
+    width: 400px;
+}
+
+.p-bernard {
+    width: 400px;
+}
+
+.peter {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid crimson;
+    padding: 10px;
+    background-color: lime;
+}
+
+.peter-hook {
+    height: 250px;
+    width: 400px;
+}
+
+.p-peter {
+    width: 400px;
+}
+
+.gillian {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid crimson;
+    padding: 10px;
+    background-color: lime;
+}
+
+.gillian-gilbert {
+    height: 250px;
+    width: 400px;
+}
+
+.p-gillian {
+    width: 400px;
+}
+
+.stephen {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid crimson;
+    padding: 10px;
+    background-color: lime;
+}
+
+.stephen-morris {
+    height: 250px;
+    width: 400px;
+}
+
+.p-stephen {
+    width: 400px;
+}
+
+.chapman {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid crimson;
+    padding: 10px;
+    background-color: lime;
+}
+
+.tom-chapman {
+    height: 250px;
+    width: 400px;
+}
+
+.p-tom {
+    width: 400px;
+}
+
+.phil {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid crimson;
+    padding: 10px;
+    background-color: lime;
+}
+
+.phil-cunningham {
+    height: 250px;
+    width: 330px;
+}
+
+.p-phil {
+    width: 330px;
+}
+
+h1 {
+    background-color: crimson;
+    margin-bottom: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: lime;
+}
+
+footer {
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: lime;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+.footer-nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-size: 20px;  
+}
+
+.website {
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: crimson;
+}
+
+.insta {
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: crimson;
+}
+
+.social {
+    text-align: center;
+    font-size: 25px;
+}

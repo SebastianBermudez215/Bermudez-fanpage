@@ -1,0 +1,164 @@
+
+body {
+   background-image: url(https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616__340.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+/* header { */
+   background-color: grey;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   /* border: 5px solid black; */
+   border-radius: 10px;
+}
+
+/* .navbar ul { */
+   /* text-align: center;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around; */
+}
+
+.about {
+   /* background-color: snow;
+   margin-right: 200px;
+   padding-right: 5px;
+   padding-left: 5px;
+   font-size: 25px;
+   text-decoration: none;
+   border: 2px solid blue;
+   border-radius: 5px; */
+}
+
+.media {
+   /* background-color: snow;
+   margin-left: 200px;
+   margin-right: 200px;
+   padding-left: 5px;
+   padding-right: 5px;
+   font-size: 25px;
+   text-decoration: none;
+   border: 2px solid blue;
+   border-radius: 5px; */
+}
+
+.landing {
+   /* background-color: snow;
+   margin-left: 200px;
+   padding-left: 5px;
+   padding-right: 5px;
+   font-size: 25px;
+   text-decoration: none;
+   border: 2px solid blue;
+   border-radius: 5px; */
+}
+
+.buttons {
+   text-align: center;
+   margin-top: 100px;
+}
+
+.first {
+   background-color: snow;
+   font-size: 20px;
+   margin-bottom: 10px;
+   border: 2px solid black;
+   border-radius: 5px;
+   padding-right: 5px;
+   padding-left: 5px;
+}
+
+.first-name {
+   border-radius: 5px;
+   border-color: blue;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   height: 20px;
+}
+
+.last {
+   background-color: snow;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   font-size: 20px;
+   border: 2px solid black;
+   border-radius: 5px;
+   border-radius: 5px;
+   padding-right: 5px;
+   padding-left: 5px;
+}
+
+.last-name {
+   border-radius: 5px;
+   border-color: blue;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   height: 20px;
+}
+
+.user {
+   background-color: snow;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   font-size: 20px;
+   border: 2px solid black;
+   border-radius: 5px;
+   padding-right: 5px;
+   padding-left: 5px;
+}
+
+.username {
+   border-radius: 5px;
+   border-color: blue;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   height: 20px;
+}
+
+.user-email {
+   background-color: snow;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   font-size: 20px;
+   border: 2px solid black;
+   border-radius: 5px;
+   padding-right: 5px;
+   padding-left: 5px;
+}
+
+.email {
+   border-radius: 5px;
+   border-color: blue;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   height: 20px;
+}
+
+.pass {
+   background-color: snow;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   font-size: 20px;
+   border: 2px solid black;
+   border-radius: 5px;
+   padding-right: 5px;
+   padding-left: 5px;
+}
+
+.password {
+   border-radius: 5px;
+   border-color: blue;
+   margin-top: 10px;
+   margin-bottom: 30px;
+   height: 20px;
+}
+
+.submit {
+   border-radius: 5px;
+   border-color: black;
+   margin-top: 30px;
+   width: 100px;
+   height: 40px; 
+   font-size: large;
+}
